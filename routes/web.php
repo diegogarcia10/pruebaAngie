@@ -14,6 +14,6 @@
 Route::get('/', function () {   
     
     return view('welcome');
-    $hola_mundo="hola mundo me quiero morir";  
+    $hola_mundo="me gustan los mangos";  
 
 });
