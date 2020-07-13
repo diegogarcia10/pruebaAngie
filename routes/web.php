@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('Hola soy yo la master UWUUUU ya podes');
+    return view('Hola soy yo la master UWUUUU ya podes x2');
 });
